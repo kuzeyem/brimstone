@@ -1,0 +1,14 @@
+html{
+    background:rgba(255,255,255,255)
+}
+#foto {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 80vh;           /* Take the full viewport height */
+}
+h1 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */      
+}

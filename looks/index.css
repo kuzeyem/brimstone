@@ -1,0 +1,24 @@
+#foto {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 50vh;           /* Take the full viewport height */
+}
+#link {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 20vh;           /* Take the full viewport height */
+}
+html{
+    background:rgba(17,26,35,255);
+}
+h1 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */      
+}
+
+.strikethrough {
+            text-decoration: line-through;
+}
